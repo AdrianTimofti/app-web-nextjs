@@ -1,1 +1,2 @@
-# app-web-nextjs
+# App Web Next.js
+Site web pentru vizualizare si statistici.
